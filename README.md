@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wadebooth
 - 👀 I’m interested in music, art, hiking, and all things tech.
-- 🌱 I’m currently learning Software Development at Boca Code.
+- 🌱 I’m currently learning Software Engineering at Boca Code.
 - 💞️ I’m looking to collaborate on coding.
 - 📫 How to reach me ... email at booth_wade@yahoo.com
 
