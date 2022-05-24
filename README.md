@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/wade-booth-41624713a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wade-booth-41624713a" height="30" width="40" /></a>
-<a href="https://instagram.com/instagram.com/wadebooth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/wadebooth" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/instagram.com/wadebooth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/wadebooth" height="30" width="40" /></a> -->
 <a href="https://medium.com/@wadeboothwrites" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@wadeboothwrites" height="30" width="40" /></a>
 </p>
 
