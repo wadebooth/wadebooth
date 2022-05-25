@@ -1,6 +1,6 @@
 <h1 align="center">Hey! 👋🏼 I'm Wade!</h1>
 <h3 align="center">A passionate software engineer && audio engineer! Welcome to my GitHub!</h3>
-<H4 align="center">Reach out to me at [booth_wade@yahoo.com](mailto:booth_wade@yahoo.com)</H4>
+<H4 align="center">Reach out to me at booth_wade@yahoo.com</H4>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=wadebooth&label=Profile%20views&color=0e75b6&style=flat" alt="wadebooth" /> </p> -->
 
