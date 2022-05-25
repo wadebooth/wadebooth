@@ -3,14 +3,6 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=wadebooth&label=Profile%20views&color=0e75b6&style=flat" alt="wadebooth" /> </p> -->
 
-- 🌱 I’m currently learning **React Native**
-
-- 📝 I regularly write articles on [https://medium.com/@wadeboothwrites](https://medium.com/@wadeboothwrites)
-
-- 💬 Ask me about **React, JavaScript, and Algorand**
-
-- 📫 How to reach me **booth_wade@yahoo.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/wade-booth-41624713a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wade-booth-41624713a" height="30" width="40" /></a>
