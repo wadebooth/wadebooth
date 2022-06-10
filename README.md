@@ -1,5 +1,5 @@
-# Hi There 👋🏼
-# Software Engineer 😁
+# Hey there! I'm Wade, welcome to my Github!
+# Software Engineer || Audio Engineer
 
 <h2 align= "center">
 
