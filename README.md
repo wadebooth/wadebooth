@@ -1,5 +1,16 @@
 # Hey there! I'm Wade, welcome to my Github!
-# Software Engineer || Audio Engineer
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### Some of my Articles 🌱
+
+- [Creating a Firebase Project with ES5 Javascript on Mac & Saving to GitHub](https://wadeboothwrites.medium.com/creating-a-firebase-project-with-es5-javascript-on-mac-saving-to-github-8734a4dd189e)
+
+</td>
+</tr>
+</table>
 
 <h2 align= "center">
 
