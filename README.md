@@ -6,6 +6,7 @@
 
 ### Some of my Articles 🌱
 
+- [My Favorite Websites to Learn Programming ](https://wadeboothwrites.medium.com/my-favorite-websites-to-learn-software-engineering-9fbec82ae1c3)
 - [Creating a Firebase Project with ES5 Javascript on Mac & Saving to GitHub](https://wadeboothwrites.medium.com/creating-a-firebase-project-with-es5-javascript-on-mac-saving-to-github-8734a4dd189e)
 
 </td>
