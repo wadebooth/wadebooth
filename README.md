@@ -4,7 +4,7 @@
 <tr>
 <td valign="top" width="50%">
 
-### Some of my Articles 🌱
+### Some of my Medium Articles 🌱
 
 - [My Favorite Websites to Learn Software Engineering](https://wadeboothwrites.medium.com/my-favorite-websites-to-learn-software-engineering-9fbec82ae1c3)
 - [Creating a Firebase Project with ES5 Javascript on Mac & Saving to GitHub](https://wadeboothwrites.medium.com/creating-a-firebase-project-with-es5-javascript-on-mac-saving-to-github-8734a4dd189e)
@@ -38,6 +38,6 @@ Let's connect!
 
 [gmail]: mailto:wademgmt@gmail.com/
 [Linkedin]: https://www.linkedin.com/in/wade-booth-41624713a/
-[medium]: https://medium.com/@wadeboothwrites
+ [medium]: https://medium.com/@wadeboothwrites
 
 </h2>
