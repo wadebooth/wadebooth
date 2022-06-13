@@ -38,5 +38,6 @@ Let's connect!
 
 [gmail]: mailto:wademgmt@gmail.com/
 [Linkedin]: https://www.linkedin.com/in/wade-booth-41624713a/
+[medium]: https://medium.com/@wadeboothwrites
 
 </h2>
