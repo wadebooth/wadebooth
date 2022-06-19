@@ -4,6 +4,8 @@
 <tr>
 <td valign="top" width="50%">
 
+ <h2>![visitor badge](https://visitor-badge.glitch.me/badge?page_id=wadebooth.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)</h2>
+ 
 ### Some of my Medium Articles 🌱
 
 - [My Favorite Websites to Learn Software Engineering](https://wadeboothwrites.medium.com/my-favorite-websites-to-learn-software-engineering-9fbec82ae1c3)
