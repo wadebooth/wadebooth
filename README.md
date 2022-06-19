@@ -3,8 +3,6 @@
 <table>
 <tr>
 <td valign="top" width="50%">
-
- <h2>![visitor badge](https://visitor-badge.glitch.me/badge?page_id=wadebooth.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)</h2>
  
 ### Some of my Medium Articles 🌱
 
@@ -43,3 +41,5 @@ Let's connect!
  [medium]: https://medium.com/@wadeboothwrites
 
 </h2>
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=wadebooth.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
