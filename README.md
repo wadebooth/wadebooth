@@ -7,7 +7,9 @@
 ### My latest Medium Articles 🌱
 
 - [My Favorite Websites to Learn Software Engineering](https://wadeboothwrites.medium.com/my-favorite-websites-to-learn-software-engineering-9fbec82ae1c3)
+- [The Intersection of Audio Engineering and Software Engineering](https://wadeboothwrites.medium.com/the-intersection-of-audio-engineering-and-software-engineering-e8ff9dec8475)
 - [Creating a Firebase Project with ES5 Javascript on Mac & Saving to GitHub](https://wadeboothwrites.medium.com/creating-a-firebase-project-with-es5-javascript-on-mac-saving-to-github-8734a4dd189e)
+
 
 </td>
 </tr>
