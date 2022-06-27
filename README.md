@@ -44,4 +44,4 @@ But most of all... Let's connect!
 
 </h2>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=wadebooth.visitor-badge&left_color=green&right_color=purple&left_text=Hello%20Visitors)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=wadebooth.visitor-badge&left_color=blue&right_color=purple&left_text=Hello%20Visitors)
