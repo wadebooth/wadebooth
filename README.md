@@ -1,6 +1,6 @@
 # Hey there! I'm Wade, welcome to my Github! 
 
-<table>
+<table align='center'>
 <tr>
 <td valign="top" width="50%">
  
