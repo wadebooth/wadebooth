@@ -38,7 +38,7 @@ But most of all... Let's connect!
 <br />
 
 
-[gmail]: mailto:wademgmt@gmail.com/
+[gmail]: mailto:wadebooth@engineer.com
 [Linkedin]: https://www.linkedin.com/in/wade-booth-41624713a/
  [medium]: https://medium.com/@wadeboothwrites
 
