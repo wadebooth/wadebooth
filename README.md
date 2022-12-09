@@ -17,7 +17,8 @@
 
 <h2 align= "center">
 
-![Wade's GitHub stats](https://github-readme-stats.vercel.app/api?username=wadebooth&show_icons=true&theme=radical) 
+[![Wade's GitHub stats](https://github-readme-stats.vercel.app/api?username=wadebooth)](https://github.com/anuraghazra/github-readme-stats)
+
  
 </h2>
 
