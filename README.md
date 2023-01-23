@@ -1,6 +1,6 @@
 # Hey there! I'm Wade, welcome to my Github!
 
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
+![Snake animation](https://github.com/wadebooth/github-readme/blob/output/github-contribution-snake.svg)
 
 
 <table align='center'>
