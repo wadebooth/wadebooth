@@ -1,5 +1,7 @@
 # Hey there! I'm Wade, welcome to my Github!
 
+![Snake animation](https://github.com/wadebooth/github-readme/blob/output/github-contribution-snake.svg)
+
 <table align='center'>
 <tr>
 <td valign="top" width="50%">
