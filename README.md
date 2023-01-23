@@ -33,8 +33,6 @@ The frontend and backend languages / frameworks I'm familiar with:
 
 </h2>
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/7qKsrTSocGEZLm23pOo5Gy?si=280ae7da311d411f)
-
 <h2 align= "center">
   
 But most of all... Let's connect!
