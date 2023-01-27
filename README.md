@@ -21,7 +21,7 @@
 
 <h2 align= "center">
 
-<div align="center"><a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a></div>
+
  
 </h2>
 
@@ -49,3 +49,5 @@ But most of all... Let's connect!
 </h2>
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=wadebooth.visitor-badge&left_color=blue&right_color=purple&left_text=Hello%20Visitors)
+
+<div align="center"><a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a></div>
