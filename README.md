@@ -5,8 +5,7 @@
 
 <table align='center'>
  
- ### Spotify Playing 🎧
-[<img src="spotify-now-playing-2-gvy1m35jm-wadebooth.vercel.app" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/1218818881)
+
 <tr>
 <td valign="top" width="50%">
  
