@@ -1,4 +1,4 @@
-# Hey there! I'm Wade, welcome to my Github!
+# Hey there! I'm Wade, welcome to my Github.
 
 
 
