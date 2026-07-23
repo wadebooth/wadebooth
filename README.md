@@ -1,30 +1,3 @@
-# Hey there! I'm Wade, welcome to my Github!
-
-
-
-<table align='center'>
- 
-
-<tr>
-<td valign="top" width="50%">
- 
-### My latest Medium Articles 🌱
-
-- [My Favorite Websites to Learn Software Engineering](https://wadeboothwrites.medium.com/my-favorite-websites-to-learn-software-engineering-9fbec82ae1c3)
-- [The Intersection of Audio Engineering and Software Engineering](https://wadeboothwrites.medium.com/the-intersection-of-audio-engineering-and-software-engineering-e8ff9dec8475)
-- [Creating a Firebase Project with ES5 Javascript on Mac & Saving to GitHub](https://wadeboothwrites.medium.com/creating-a-firebase-project-with-es5-javascript-on-mac-saving-to-github-8734a4dd189e)
-
-
-</td>
-</tr>
-</table>
-
-
-<h2 align= "center">
-
-
- 
-</h2>
 
 <h2 align= "center">
 
@@ -34,20 +7,6 @@ The frontend and backend languages / frameworks I've worked in:
 
 </h2>
 
-<h2 align= "center">
-  
-But most of all... Let's connect!
-
-[<img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">][gmail]
-[<img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-<br />
-
-
-[gmail]: mailto:wadeboothdev@gmail.com
-[Linkedin]: https://www.linkedin.com/in/wade-booth-41624713a/
- [medium]: https://medium.com/@wadeboothwrites
-
-</h2>
 <div align="center"><a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a></div>
 
 
